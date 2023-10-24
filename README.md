@@ -30,6 +30,8 @@
 #### Регрессия
 
 ##### [Лекция №6](sem1/lecs/lec6/lec6.ipynb)
+##### [Пример №1](sem1/lecs/lec6/lemurs_lm.ipynb)
+##### [Пример №2](sem1/lecs/lec6/lemurs.ipynb)
 
 #### Кластеризация
 
